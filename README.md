@@ -1,4 +1,4 @@
-# C-
+# C++
 c++ code style guild
 
 参考 《Google C++ Style Guide》
